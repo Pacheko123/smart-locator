@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "700016919806",
+    "firebase_url": "https://geotraveller.firebaseio.com",
+    "project_id": "geotraveller",
+    "storage_bucket": "geotraveller.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700016919806:android:9f915295b47790dab111af",
+        "android_client_info": {
+          "package_name": "com.androidcodefinder.loginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700016919806-qd25mght8vsl1kjsuvk27q7ikmpdadmp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-YAwgSlQGh24yQVnfGQzSI8WapoCsjCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700016919806-qd25mght8vsl1kjsuvk27q7ikmpdadmp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

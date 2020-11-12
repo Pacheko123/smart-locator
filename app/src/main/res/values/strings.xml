@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Geotraveller</string>
+    <string name="title_activity_navigate">Navigate</string>
+    <string name="minimum_password">Password too short</string>
+    <string name="auth_failed">Counter check credentials or sign up </string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="log_in">Log In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="pick_place">pick place</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_test">Map</string>
+    <string name="title_activity_maps_activity2cd">Map</string>
+    <string name="valid_email_address">Email address</string>
+    <string name="create_account">CREATE ACCOUNT</string>
+    <string name="sign">SIGN UP</string>
+    <string name="haveAccount">Already have an account? Login</string>
+    <string name="log_inn">Log in</string>
+</resources>
